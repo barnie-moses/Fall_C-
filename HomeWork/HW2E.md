@@ -1,0 +1,2 @@
+In Switch/main.cpp, I’ve included the code that is similar to the example from Week 02. This code works great at reading all the characters provided to standard input until the EOF (End-Of-File) is reached. You can supply such an EOF by typing Control-d when providing input from the terminal. This program reports the types of characters encountered.
+However, I need you to add one more feature. I want the program to stop reading in input if the characters “MSU” are encountered. The program should then output the stats, just as if the EOF was encountered.
